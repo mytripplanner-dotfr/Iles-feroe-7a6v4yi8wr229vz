@@ -1,0 +1,229 @@
+{
+  "pays": "Îles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Évasion Nordique aux Îles Féroé : Entre Fjords et Sérénité",
+  "budget_total": "Environ 1800 €/personne",
+  "duree": "5 jours",
+  "date_debut": "2026-01-09",
+  "date_fin": "2026-01-14",
+  "temps_vol": "5h05 (avec escale depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Charme de Tórshavn",
+      "legende": "Débarquez sur cette terre mystique, puis laissez-vous envelopper par l'atmosphère paisible de Tórshavn, la plus petite capitale du monde. Une première immersion douce dans la culture féroïenne, entre maisons colorées et brise marine.",
+      "lieu": "Tórshavn",
+      "activites": [
+        "<strong>🛬</strong> : Arrivée à l'aéroport de Vágar (FAE) et récupération du véhicule de location, indispensable pour explorer les îles.",
+        "<strong>🚗</strong> : Transfert vers Tórshavn, la capitale féroïenne, un trajet pittoresque d'environ 45 minutes.",
+        "<strong>🛏️</strong> : Installation à l'hôtel et moment de détente pour se rafraîchir après le voyage.",
+        "<strong>🚶‍♀️</strong> : Balade relaxante dans le quartier historique de Tinganes à Tórshavn, avec ses maisons en bois aux toits d'herbe et son port animé."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0636, "lng": -7.2773 }
+        },
+        {
+          "nom_recherche": "Tinganes, Tórshavn",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 62.0094, "lng": -6.7725 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "La location de voiture est essentielle pour explorer les îles Féroé en toute liberté. Réservez à l'avance, surtout si vous voyagez en haute saison."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Paysages Époustouflants de Streymoy Sud",
+      "legende": "Explorez les villages pittoresques et les panoramas côtiers du sud de Streymoy. Une journée dédiée à la beauté naturelle et à la tranquillité des paysages féroïens, entre histoire et vues imprenables sur l'océan.",
+      "lieu": "Streymoy",
+      "activites": [
+        "<strong>🚗</strong> : Route vers Kirkjubøur, le centre culturel et historique des Féroé, un site empreint d'histoire médiévale.",
+        "<strong>⛪</strong> : Visite des ruines de la Cathédrale de Magnus et de l'ancienne ferme de Kirkjubøargarður, l'une des plus vieilles maisons en bois habitées au monde.",
+        "<strong>🚶‍♀️</strong> : Courte balade le long de la côte près de Velbastaður pour admirer les vues sur les îles de Hestur et Koltur, des paysages à couper le souffle.",
+        "<strong>☕</strong> : Détente dans un café local à Tórshavn au retour, pour savourer une boisson chaude et l'ambiance féroïenne."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Kirkjubøur, Streymoy",
+          "categorie": "Village historique",
+          "coords": { "lat": 61.9900, "lng": -6.7930 }
+        },
+        {
+          "nom_recherche": "Kirkjubøargarður, Kirkjubøur",
+          "categorie": "Ferme historique",
+          "coords": { "lat": 61.9900, "lng": -6.7930 }
+        },
+        {
+          "nom_recherche": "Velbastaður, Streymoy",
+          "categorie": "Village",
+          "coords": { "lat": 61.9970, "lng": -6.8400 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Le saviez-vous ?",
+          "texte": "Kirkjubøur fut le siège épiscopal des Féroé au Moyen Âge, témoignant de l'importance ecclésiastique de ces îles."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛰️",
+      "titre": "Charme des Villages et Fjords d'Eysturoy",
+      "legende": "Traversez des paysages montagneux pour découvrir Eysturoy, l'une des îles principales. Laissez-vous séduire par le village de Gjógv et son port naturel unique, un havre de paix où le temps semble s'arrêter.",
+      "lieu": "Eysturoy",
+      "activites": [
+        "<strong>🚗</strong> : Traversée du tunnel sous-marin pour rejoindre Eysturoy, une expérience en soi avec des paysages changeants.",
+        "<strong>🏘️</strong> : Visite du village de Gjógv, célèbre pour son port naturel creusé dans la roche et ses maisons colorées.",
+        "<strong>🚶‍♀️</strong> : Courte promenade autour de Gjógv pour admirer les falaises et la vue imprenable sur l'océan, un moment de pure sérénité.",
+        "<strong>☕</strong> : Pause réconfortante au Gjáargarður Guesthouse, avec vue sur le fjord, pour déguster une pâtisserie locale."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gjógv, Eysturoy",
+          "categorie": "Village",
+          "coords": { "lat": 62.3100, "lng": -6.9300 }
+        },
+        {
+          "nom_recherche": "Gjáargarður Guesthouse, Gjógv",
+          "categorie": "Hébergement/Café",
+          "coords": { "lat": 62.3100, "lng": -6.9300 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Attention aux tunnels",
+          "texte": "Les tunnels sous-marins aux Féroé sont payants. Le paiement se fait généralement en ligne ou dans les stations-service après le passage."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "💧",
+      "titre": "Cascades et Villages Pittoresques de Vágar",
+      "legende": "Retour sur l'île de Vágar pour explorer ses trésors cachés. Admirez la majestueuse cascade de Múlafossur et les vues imprenables depuis les charmants villages de Gásadalur et Bøur, des cartes postales vivantes.",
+      "lieu": "Vágar",
+      "activites": [
+        "<strong>🚗</strong> : Route vers l'île de Vágar pour explorer sa côte ouest, réputée pour ses paysages dramatiques.",
+        "<strong>📸</strong> : Admiration de la cascade de Múlafossur à Gásadalur, l'une des plus emblématiques des Féroé, se jetant directement dans l'océan.",
+        "<strong>🏘️</strong> : Visite du village de Bøur, offrant une vue panoramique sur les îlots de Tindhólmur et Gáshólmur, un spectacle naturel inoubliable.",
+        "<strong>🚶‍♀️</strong> : Balade douce le long de la côte à Bøur, en profitant de l'air marin vivifiant et du calme environnant."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Múlafossur, Gásadalur",
+          "categorie": "Cascade",
+          "coords": { "lat": 62.1000, "lng": -7.4300 }
+        },
+        {
+          "nom_recherche": "Gásadalur, Vágar",
+          "categorie": "Village",
+          "coords": { "lat": 62.1000, "lng": -7.4300 }
+        },
+        {
+          "nom_recherche": "Bøur, Vágar",
+          "categorie": "Village",
+          "coords": { "lat": 62.0800, "lng": -7.3800 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "✨",
+          "titre": "Conseil photo",
+          "texte": "La cascade de Múlafossur est un incontournable, surtout par temps clair. Préparez votre appareil photo pour des clichés mémorables !"
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🛫",
+      "titre": "Derniers Instants Féroïens et Départ",
+      "legende": "Profitez d'un dernier petit-déjeuner féroïen avant de rejoindre l'aéroport. Emportez avec vous les souvenirs impérissables de ces îles du bout du monde, entre nature sauvage, sérénité et hospitalité unique.",
+      "lieu": "Tórshavn / Vágar",
+      "activites": [
+        "<strong>🛍️</strong> : Temps libre pour quelques achats de souvenirs à Tórshavn ou une dernière balade dans les rues de la capitale.",
+        "<strong>🚗</strong> : Route vers l'aéroport de Vágar (FAE), en profitant une dernière fois des paysages féroïens.",
+        "<strong>🛫</strong> : Enregistrement et vol retour vers Paris, la tête pleine de souvenirs nordiques."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Conseil de départ",
+          "texte": "Prévoyez suffisamment de temps pour le trajet vers l'aéroport et les formalités, surtout en hiver où les conditions météorologiques peuvent impacter les déplacements."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 536 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 200 €/pers (location voiture, essence, tunnels)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 600 €/pers (5 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 350 €/pers (4 nuits, hôtel 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 75 €/pers (musées, entrées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Juin à Août", "symbole": "☀️", "texte": "Pour les longues journées, la faune (oiseaux marins) et un temps plus doux." },
+    { "titre": "Septembre-Octobre", "symbole": "🍂", "texte": "Pour les couleurs d'automne, moins de foule et des lumières magnifiques." },
+    { "titre": "Décembre-Février", "symbole": "🌌", "texte": "Pour l'ambiance hivernale, la possibilité d'aurores boréales, mais des jours courts et une météo capricieuse." }
+  ],
+  "infos_pratiques": [
+    { "titre": "En janvier, les températures varient entre 0 et 5°C. Prévoir des couches chaudes, coupe-vent et imperméables. Les jours sont courts (environ 5-6h de lumière).", "symbole": "❄️" },
+    { "titre": "La monnaie est la Couronne Danoise (DKK). Les cartes de crédit sont largement acceptées. Quelques espèces peuvent être utiles pour les petits commerces ou les villages isolés.", "symbole": "💳" },
+    { "titre": "La location de voiture est indispensable pour explorer les îles. Conduite à droite. Les routes sont bien entretenues mais peuvent être étroites et sinueuses. Attention aux nombreux moutons !", "symbole": "🚗" },
+    { "titre": "La couverture mobile est bonne dans les zones habitées. Le Wi-Fi est disponible dans la plupart des hébergements et cafés.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "🐑",
+      "titre": "Le \"Sheep View\"",
+      "texte": "Aux Féroé, les moutons sont plus nombreux que les habitants (environ 80 000 moutons pour 54 000 habitants) ! Ils ont même inspiré le \"Sheep View\", une initiative locale pour cartographier les îles avant l'arrivée de Google Street View."
+    },
+    {
+      "symbole": "💡",
+      "titre": "Tunnels sous-marins artistiques",
+      "texte": "Les îles Féroé sont reliées par un réseau impressionnant de tunnels sous-marins. L'un d'eux, l'Eysturoyartunnilin, abrite même un rond-point sous-marin décoré d'une œuvre d'art lumineuse de l'artiste Tróndur Patursson."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Skerpikjøt",
+      "description": "Viande de mouton séchée à l'air libre pendant plusieurs mois, offrant une saveur intense et unique, très appréciée des locaux."
+    },
+    {
+      "symbole": "🐟",
+      "titre": "Fiskur (Poisson frais)",
+      "description": "Avec l'océan omniprésent, le poisson frais (morue, flétan, saumon) est un incontournable, souvent servi simplement pour en apprécier la qualité."
+    },
+    {
+      "symbole": "🍰",
+      "titre": "Rabarber (Rhubarbe)",
+      "description": "La rhubarbe est très populaire et utilisée dans de nombreux desserts, confitures et même des boissons, apportant une touche acidulée et rafraîchissante."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FAE/2026-01-09/2026-01-14", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Faroe Islands", "url": "https://visitfaroeislands.com/", "symbole": "📘" },
+    { "legende": "Météo locale", "titre": "Météo Féroé (Yr.no)", "url": "https://www.yr.no/en/forecast/hourly-table/2-2610731/Faroe%20Islands/T%C3%B3rshavn", "symbole": "🌤️" },
+    { "legende": "Location de voiture", "titre": "Rentals.fo", "url": "https://www.rentals.fo/", "symbole": "🚗" }
+  ]
+}
